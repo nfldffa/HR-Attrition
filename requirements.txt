@@ -1,0 +1,25 @@
+# Core Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization (EDA & optional dashboard prep)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+imbalanced-learn==0.12.3
+
+# Model Saving
+joblib==1.4.2
+
+# Explainability (SHAP - next step)
+shap==0.45.1
+
+# Jupyter Notebook (biar notebook bisa jalan di env baru)
+notebook==7.2.1
+ipykernel==6.29.4
+
+# Optional Utilities
+tqdm==4.66.4
